@@ -1,0 +1,18 @@
+STEP 1: 
+DOWNLOAD LATEST WIDLFY
+
+STEP 2: 
+UPLOAD THE FAMU-1.war
+
+STEP 3: THE XML will be created in C FOLDER
+
+TO GENERATE CRS_MUv1.3.xml USE: 
+
+
+http://localhost:8080/FAMU-1/MuReq??SendingCompanyIN=20384038&TransmittingCountry=MU&ReceivingCountry=US&MessageType=CRS&MessageTypeIndic=CRS701&ReportingPeriod=2019-12-31&ResCountryCode=MU&INvalue=20384038&INissuedBy=MU&INName=Vuna Capital Trustess (Mauritius) Ltd&AddressCountryCode=MU&AddressPostCode=72201&AddressCity=Ebene&AddressFree=Level 10, NeXTeracom Tower 1&DocSpecDocTypeIndic=OECD1&DocSpecDocRefId=MU2019MUYh3tBGSs-7Q7t-THDn-3ih8-w2aBXjGt0g7E&ReportingGroupAcctNumberType=OECD602&ReportingGroupAcctNumber=140046823512001&AccountHolderResCountryCode=MU&AccountHolderName=Vuna Capital Trustess (Mauritius) Ltd&AccountHolderType=CRS101&ControllingPersonResCountryCode=DK&ControllingPersonIb=ZA&ControllingPersonFirstName=Oomar&ControllingPersonLastName=Akhilesh&ControllingPersonBirthDate=1975-03-16&ControllingPersonCity=Parkview&ControllingPersonCountryCode=ES&ControllingPersonPersonType=CRS804&AccountBalanceCurrCode=USD&AccountBalanceValue=119&PaymentType=CRS504&PaymentCurrCode=USD&PaymentValue=151600
+    
+	
+TO GENERATE FATCAv1.2.xml USE: 
+
+http://localhost:8080/FAMU-1/FaReq?SendingCompanyIN=20384038&TransmittingCountry=MU&ReceivingCountry=US&MessageType=FATCA&MessageRefId=fS6KKHX7-FLiQ-WzfO-W2se-LtLo4m8cy3Cb&CorrMessageRefId=&ReportingPeriod=2020-12-31&Timestamp=2021-08-17T17:17:40&ResCountryCode=MU&IssuedBy=US&Value=AFWW1B.00000.SP.480&ReportingFIName=The Sumatra Trust&CountryCode=MU&PostCode=72201&City=Ebene&AddressFree=Level 10, NeXTeracom Tower 1&DocTypeIndic=FATCA1&DocRefId=20384038.aToxJyl1-tcQP-y5ZE-aoCF-95GgoNnICOcU&ResCountryCode=MU&FaSponsorName=Vuna Capital Trustees (Mauritius) Ltd&FilerCategory=FATCA609&NoAccountToReport=yes
+   

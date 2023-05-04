@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-deploy-only</actionName>
+            <displayName>deploy-only</displayName>
+            <goals>
+                <goal>wildfly:deploy-only</goal>
+            </goals>
+        </action>
+    </actions>
